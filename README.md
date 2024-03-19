@@ -9,5 +9,5 @@ A growth mindset is one that is continuously learning new things and upgrading i
    > I don't know yet but I will!
 
 
-https://github.com/Kmartin30
+[Kmartin Reading Notes](https://github.com/Kmartin30)
 
