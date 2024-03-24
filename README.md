@@ -11,5 +11,4 @@ Reading Journal for Code Fellows
 
 [Kmartin Reading Notes](https://github.com/Kmartin30)
 
-![Kermit](kermitzoombackground.jpg) 
 
