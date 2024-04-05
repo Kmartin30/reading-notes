@@ -12,4 +12,6 @@
  # What is the command to send your changed files to Github?
 *git push origin main*
 
-[cloudsrevised] (
+[cloudsrevised] (https://kmartin30.github.io/reading-notes/cloudrevisions.md)
+
+
