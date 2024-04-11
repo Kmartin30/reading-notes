@@ -15,7 +15,7 @@ What is Growth Mindset?
 Code 102 Reading Notes
 ## Table of Contents
 
-    -Learning Markdown [learningMD](https://github.com/Kmartin30/Code-102-Reading-Notes/blob/main/learningMD.md)
+    -Learning Markdown[learningMD](https://github.com/Kmartin30/Code-102-Reading-Notes/blob/main/learningMD.md)
 
     -Coders Computer [Coderscomp](https://github.com/Kmartin30/Code-102-Reading-Notes/blob/main/Coderscomp.md)
 
