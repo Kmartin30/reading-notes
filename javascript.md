@@ -5,9 +5,11 @@ What are variables in JavaScript?
     Variables in JavaScript are containers for storing data. JavaScript can be declared in four different ways.
 
 What does it mean to declare a variable?
+
     Declaring a variable is specifying the name and identifer but has not yet assisgned a value to the variable.
 
 What is an “assignment” operator, and what does it do?
+
     It assigns an identifer/symbol to a value for the variable.
 
 What is information received from the user called?
