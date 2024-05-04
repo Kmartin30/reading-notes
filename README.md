@@ -12,27 +12,25 @@ What is Growth Mindset?
 
 [Kmartin Reading Notes](https://github.com/Kmartin30)
 
-# Code 102 Reading Notes
+## Code 102 Reading Notes
 
-Table of Contents
+1.[Learning Markdown](https://github.com/Kmartin30/reading-notes/blob/main/102%20ReadingNotes.md/LearningMarkdown.md)
 
-1.[Learning Markdown](https://github.com/Kmartin30/Code-102-Reading-Notes/blob/main/learningMD.md)
+2.[Coderscomp](https://github.com/Kmartin30/reading-notes/blob/main/102%20ReadingNotes.md/coderscomputer.md)
 
-2.[Coderscomp](https://github.com/Kmartin30/Code-102-Reading-Notes/blob/main/Coderscomp.md)
+3.[RevisedClouds](https://github.com/Kmartin30/reading-notes/blob/main/102%20ReadingNotes.md/cloudrevisions.md)
 
-3. [RevisedClouds](https://github.com/Kmartin30/Code-102-Reading-Notes/blob/main/RevisedCloud.md)
+4.[StructureHTML](https://github.com/Kmartin30/reading-notes/blob/main/102%20ReadingNotes.md/htmlresources.md)
 
-4.[StructureHTML](https://github.com/Kmartin30/Code-102-Reading-Notes/blob/main/StructureHTML.md)
+5.[DesignCSS](https://github.com/Kmartin30/reading-notes/blob/main/102%20ReadingNotes.md/designcss.md)
 
-5.[DesignCSS](https://github.com/Kmartin30/Code-102-Reading-Notes/blob/main/DesignCSS.md)
+6.[ActivateJava](https://github.com/Kmartin30/reading-notes/blob/main/102%20ReadingNotes.md/javascript.md)
 
-6.[ActivateJava](https://github.com/Kmartin30/Code-102-Reading-Notes/blob/main/ActivateJava.md)
+7.[ProgrammingJava](https://github.com/Kmartin30/reading-notes/blob/main/102%20ReadingNotes.md/programmingjs.md)
 
-7.[ProgrammingJava](https://github.com/Kmartin30/Code-102-Reading-Notes/blob/main/ProgrammingJava.md)
+8.[LoopsandOps](https://github.com/Kmartin30/reading-notes/blob/main/102%20ReadingNotes.md/opsandloops.md)
 
-8.[LoopsandOps](https://github.com/Kmartin30/Code-102-Reading-Notes/blob/main/LoopsandOps.md)
-
-# Code of 201 Reading Notes
+## Code of 201 Reading Notes
 
    Table of Contents
 [LectureOne](https://github.com/Kmartin30/Code-201-Reading-Notes/blob/main/LectureOne.md)
