@@ -6,7 +6,7 @@ Beyond these pages you will learn the basics of coding, the different types of s
 
 ## Table of Contents
 
-    -Learning Markdown [learningMD](https://github.com/Kmartin30/Code-102-Reading-Notes/blob/main/learningMD.md)
+    -Learning Markdown [learningMD](https://github.com/Kmartin30/reading-notes/blob/8d036a8eb829e1347d1b3d7f22d6e505f7f53a96/102%20ReadingNotes.md/LearningMarkdown.md)
 
     -Coders Computer [Coderscomp](https://github.com/Kmartin30/Code-102-Reading-Notes/blob/main/Coderscomp.md)
 

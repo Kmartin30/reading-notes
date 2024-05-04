@@ -11,52 +11,56 @@ What is Growth Mindset?
    > I don't know yet but I will!
 
 [Kmartin Reading Notes](https://github.com/Kmartin30)
+
 # Code 102 Reading Notes
+
 Table of Contents
-1.Learning Markdown [learningMD](https://github.com/Kmartin30/Code-102-Reading-Notes/blob/main/learningMD.md)
-     
-2.Coders Computer [Coderscomp](https://github.com/Kmartin30/Code-102-Reading-Notes/blob/main/Coderscomp.md)
-     
-3. Revisions and the Cloud [RevisedClouds](https://github.com/Kmartin30/Code-102-Reading-Notes/blob/main/RevisedCloud.md)
 
-4. Structure webpages with HTML [StructureHTML](https://github.com/Kmartin30/Code-102-Reading-Notes/blob/main/StructureHTML.md)
-     
-5. Design Web pages with CSS [DesignCSS](https://github.com/Kmartin30/Code-102-Reading-Notes/blob/main/DesignCSS.md)
-     
-6. Activating webpages with JavaScript [ActivateJava](https://github.com/Kmartin30/Code-102-Reading-Notes/blob/main/ActivateJava.md)
+1.[Learning Markdown](https://github.com/Kmartin30/Code-102-Reading-Notes/blob/main/learningMD.md)
 
-7. Programming with JavaScript [ProgrammingJava](https://github.com/Kmartin30/Code-102-Reading-Notes/blob/main/ProgrammingJava.md)
+2.[Coderscomp](https://github.com/Kmartin30/Code-102-Reading-Notes/blob/main/Coderscomp.md)
 
-8. Operations & Loops [LoopsandOps](https://github.com/Kmartin30/Code-102-Reading-Notes/blob/main/LoopsandOps.md)
+3. [RevisedClouds](https://github.com/Kmartin30/Code-102-Reading-Notes/blob/main/RevisedCloud.md)
 
- # Code of 201 Reading Notes
-   Table of Contents 
--1 [LectureOne](https://github.com/Kmartin30/Code-201-Reading-Notes/blob/main/LectureOne.md)
+4.[StructureHTML](https://github.com/Kmartin30/Code-102-Reading-Notes/blob/main/StructureHTML.md)
 
--2 [LectureTwo](https://github.com/Kmartin30/Code-201-Reading-Notes/blob/main/LectureTwo.md)
+5.[DesignCSS](https://github.com/Kmartin30/Code-102-Reading-Notes/blob/main/DesignCSS.md)
 
--3 [LectureThree](https://github.com/Kmartin30/Code-201-Reading-Notes/blob/main/LectureThree.md)
+6.[ActivateJava](https://github.com/Kmartin30/Code-102-Reading-Notes/blob/main/ActivateJava.md)
 
--4 [LectureFour](https://github.com/Kmartin30/Code-201-Reading-Notes/blob/main/LectureFour.md)
+7.[ProgrammingJava](https://github.com/Kmartin30/Code-102-Reading-Notes/blob/main/ProgrammingJava.md)
 
--5 [LectureFive](https://github.com/Kmartin30/Code-201-Reading-Notes/blob/main/LectureFive.md)
+8.[LoopsandOps](https://github.com/Kmartin30/Code-102-Reading-Notes/blob/main/LoopsandOps.md)
 
--6 [LectureSix](https://github.com/Kmartin30/Code-201-Reading-Notes/blob/main/LectureSix.md)
+# Code of 201 Reading Notes
 
--7 [LectureSeven](https://github.com/Kmartin30/Code-201-Reading-Notes/blob/main/LectureSeven.md)
+   Table of Contents
+[LectureOne](https://github.com/Kmartin30/Code-201-Reading-Notes/blob/main/LectureOne.md)
 
--8 [LectureEight](https://github.com/Kmartin30/Code-201-Reading-Notes/blob/main/LectureEight.md)
+ [LectureTwo](https://github.com/Kmartin30/Code-201-Reading-Notes/blob/main/LectureTwo.md)
 
--9 [LectureNine](https://github.com/Kmartin30/Code-201-Reading-Notes/blob/main/LectureNine.md)
+ [LectureThree](https://github.com/Kmartin30/Code-201-Reading-Notes/blob/main/LectureThree.md)
 
--10 [LectureTen](https://github.com/Kmartin30/Code-201-Reading-Notes/blob/main/LectureTen.md)
+[LectureFour](https://github.com/Kmartin30/Code-201-Reading-Notes/blob/main/LectureFour.md)
 
--11 [LectureEleven](https://github.com/Kmartin30/Code-201-Reading-Notes/blob/main/LectureEleven.md)
+ [LectureFive](https://github.com/Kmartin30/Code-201-Reading-Notes/blob/main/LectureFive.md)
 
--12 [LectureTwelve](https://github.com/Kmartin30/Code-201-Reading-Notes/blob/main/LectureTwelve.md)
+ [LectureSix](https://github.com/Kmartin30/Code-201-Reading-Notes/blob/main/LectureSix.md)
 
--13 [LectureThirteen](https://github.com/Kmartin30/Code-201-Reading-Notes/blob/main/LectureThirteen.md)
+ [LectureSeven](https://github.com/Kmartin30/Code-201-Reading-Notes/blob/main/LectureSeven.md)
 
--14 [LectureFourteen](https://github.com/Kmartin30/Code-201-Reading-Notes/blob/main/LectureFourteen.md)
+ [LectureEight](https://github.com/Kmartin30/Code-201-Reading-Notes/blob/main/LectureEight.md)
 
--15 [LectureFifteen](https://github.com/Kmartin30/Code-201-Reading-Notes/blob/main/LectureFifteen.md)
+ [LectureNine](https://github.com/Kmartin30/Code-201-Reading-Notes/blob/main/LectureNine.md)
+
+ [LectureTen](https://github.com/Kmartin30/Code-201-Reading-Notes/blob/main/LectureTen.md)
+
+ [LectureEleven](https://github.com/Kmartin30/Code-201-Reading-Notes/blob/main/LectureEleven.md)
+
+ [LectureTwelve](https://github.com/Kmartin30/Code-201-Reading-Notes/blob/main/LectureTwelve.md)
+
+ [LectureThirteen](https://github.com/Kmartin30/Code-201-Reading-Notes/blob/main/LectureThirteen.md)
+
+ [LectureFourteen](https://github.com/Kmartin30/Code-201-Reading-Notes/blob/main/LectureFourteen.md)
+
+ [LectureFifteen](https://github.com/Kmartin30/Code-201-Reading-Notes/blob/main/LectureFifteen.md)
